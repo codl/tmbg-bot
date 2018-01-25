@@ -1,0 +1,97 @@
+might:
+    - might
+    - "#might2#"
+
+might2:
+    - might
+    - can
+    - can't
+    - could
+    - couldn't
+    - may
+    - must
+    - musn't
+    - shall
+    - shan't
+    - should
+    - shouldn't
+    - will
+    - won't
+    - would
+    - wouldn't
+
+must:           # only includes "strong" auxiliaries
+    - can
+    - can't
+    - could
+    - couldn't
+    - must
+    - musn't
+    - should
+    - shouldn't
+    - will
+    - won't
+    - would
+    - wouldn't
+
+giants:
+    - giants
+    - "#giants2#"
+
+giants2:
+    - enormous
+    - large
+    - big
+    - small
+    - fun-sized
+    - tiny
+    - regular-sized
+    - diminutive
+    - miniature
+    - compact
+    - travel-sized
+    - huge
+    - monstrous
+    - gargantuan
+    - tall
+    - "#giants3#"
+
+giants3:
+    - silent
+
+    - rain
+    - heat
+    - frying up a stalk of wheat
+    - brain
+    - washed
+    - Dr. Spock's back-up band
+    - bald
+    - snow
+    - something else in the snow
+    - fake
+    - lies
+    - big, big, fake, fake lies
+
+
+phrase:
+    - "They #might# be #giants#"
+    - "They #might# be #giants#"
+    - "They #might# be #giants#"
+    - "They #might# be #giants#"
+    - "They #might# be #giants#"
+    - "#phrase2#"
+
+phrase2:
+    - "#might.capitalize# they be #giants#?"
+    - "#giants.capitalize#? #might.capitalize# be"
+    - "Surely, they #must# be #giants#"
+    - "#phrase3#"
+
+phrase3:
+    - Hang on tight
+    - "We can't be silent, cause they #might# be #giants#"
+    - What are we gonna do unless they are?
+
+
+origin:
+    "#phrase#"
