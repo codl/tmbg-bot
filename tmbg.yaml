@@ -1,9 +1,5 @@
 might:
     - might
-    - "#might2#"
-
-might2:
-    - might
     - can
     - can't
     - could
@@ -36,9 +32,6 @@ must:           # only includes "strong" auxiliaries
 
 giants:
     - giants
-    - "#giants2#"
-
-giants2:
     - enormous
     - large
     - big
@@ -54,9 +47,9 @@ giants2:
     - monstrous
     - gargantuan
     - tall
-    - "#giants3#"
+    - "#giants2#"
 
-giants3:
+giants2:
     - silent
 
     - rain
@@ -74,10 +67,8 @@ giants3:
 
 
 phrase:
-    - "They #might# be #giants#"
-    - "They #might# be #giants#"
-    - "They #might# be #giants#"
-    - "They #might# be #giants#"
+    - "They might be #giants#"
+    - "They #might# be giants"
     - "They #might# be #giants#"
     - "#phrase2#"
 
